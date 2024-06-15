@@ -9,11 +9,6 @@ The objective of this project is to develop a React application that allows user
 - [Objective](#objective)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Code Overview](#code-overview)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Search for books using the Open Library API.
