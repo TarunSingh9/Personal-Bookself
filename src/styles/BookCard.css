@@ -1,0 +1,46 @@
+/* BookCard.css */
+/* Styles for the book card component */
+.book-card {
+  background-color: #D09683;
+  border: 1px solid #73605B;
+  border-radius: 8px;
+  padding: 16px;
+
+}
+/* BookCard.css */
+/* Styles for the book card component */
+.book-card {
+  background-color: #D09683;
+  border: 1px solid #73605B;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 8px;
+  text-align: center;
+  color: #330000;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.book-card h3 {
+  margin: 0 0 8px;
+  font-size: 1.2em;
+  color: #330000;
+}
+
+.book-card p {
+  margin: 0 0 16px;
+  color: #330000;
+}
+
+.book-card button {
+  background-color: #330000;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.book-card button:hover {
+  background-color: #73605B;
+}

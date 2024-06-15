@@ -1,0 +1,28 @@
+
+.bookshelf {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+    padding: 16px;
+  }
+  
+  .bookshelf-book {
+    background-color: #D09683;
+    border: 1px solid #73605B;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 8px;
+    text-align: center;
+    color: #330000;
+  }
+  
+  .bookshelf-book h3 {
+    margin: 0 0 8px;
+  }
+  
+  .bookshelf-book p {
+    margin: 0;
+    color: #330000;
+  }
+  
